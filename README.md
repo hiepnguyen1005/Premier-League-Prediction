@@ -11,3 +11,17 @@ The data used in this project was collected from the [Football Data](https://www
 I used various machine learning technique, including Logistic Regression and Decicision Tree Classifier to build a model that predicts the outcome of Premier League matches. I also performed feature engineering and feature selection to improve the model's performance.
 
 ## Result 
+The final model achieved an accuracy of 70% on the test set, which is promising for its application in football prediction.
+
+## Conclusion
+My model try to predict whether the host team will win or not in a football match in the England Football Division. The model achieved a high level of accuracy and can be further improved with more quality data and advanced techniques.
+
+## Requirements
+The code for this project was written in Python 3.8 and requires the following libraries:
+- Pandas
+- Numpy
+- Sklearn
+- Matplotlib
+
+## Usage 
+To run the code for this project, clone the repository and run the Jupyter Notebook file.
